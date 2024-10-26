@@ -6,6 +6,17 @@
 [Hadi Zare](https://fnst.ut.ac.ir/en/~h.zare)<sup>3</sup><br>
 <sup>1</sup>Amirkabir University of Technology, <sup>2</sup>University of Exeter, <sup>3</sup>University of Tehran
 
+*If you use our method, please cite it by*:
+```
+@article{ahmadian2024improved,
+  title={Improved User Identification through Calibrated Monte-Carlo Dropout},
+  author={Ahmadian, Rouhollah and Ghatee, Mehdi and Wahlstr{\"o}m, Johan},
+  journal={Knowledge-Based Systems},
+  pages={112581},
+  year={2024},
+  publisher={Elsevier}
+}
+```
 
 <!-- ABOUT THE PROJECT -->
 
